@@ -18,6 +18,7 @@ Branches in this repo (with details):
   SHA: 7f103b7cc800f82824696abeabb25fbae3d8866d
   Commits: 12
   Recent commits:
+<<<<<<< HEAD
     7f103b7 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T16:01:56Z | Trying to fix branch-info not recognizing lab7
     7755f6c | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:59:05Z | Adjust lab7 marker to match grader expectations
     86d210a | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:53Z | Fix lab7 marker format
@@ -32,3 +33,15 @@ Branches in this repo (with details):
     ffcfcb7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:51Z | Auto-update branch-info.txt
     345b207 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:18Z | Auto-update branch-info.txt
     15ed3c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:56:01Z | Auto-update branch-info.txt
+=======
+    af6f34a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:46Z | Auto-update branch-info.txt
+    0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
+    f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
+ - lab7
+  SHA: 938e9bd0bc1f2caa1429adb52e03dd4854fe9cea
+  Commits: 5
+  Recent commits:
+    938e9bd | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:16:08+00:00 | Testing with Mock
+    92f648e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:57+00:00 | Auto-update branch-info.txt
+    af6f34a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:46Z | Auto-update branch-info.txt
+>>>>>>> lab7
