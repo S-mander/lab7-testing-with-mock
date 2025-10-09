@@ -15,20 +15,20 @@ Branches in this repo (with details):
     0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
     f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
 - lab7
-  SHA: 7755f6c4367c272a50607ea51c62e009cfc7da87
-  Commits: 11
+  SHA: 7f103b7cc800f82824696abeabb25fbae3d8866d
+  Commits: 12
   Recent commits:
+    7f103b7 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T16:01:56Z | Trying to fix branch-info not recognizing lab7
     7755f6c | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:59:05Z | Adjust lab7 marker to match grader expectations
     86d210a | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:53Z | Fix lab7 marker format
     fb2ff9e | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:07Z | Fix branch-info lab7 marker
     0ba6a10 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:55:37Z | Normalize branch-info lab7 indentation
-    027c336 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:52:40Z | Fix branch-info lab7 entry formatting
 - main
-  SHA: ffcfcb7aab0eae78e8b4a463cc63edc83cfd10fb
-  Commits: 12
+  SHA: 0bee094dd0b558b9e6029fecea24175e186acbaf
+  Commits: 13
   Recent commits:
+    0bee094 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:00:55Z | Auto-update branch-info.txt
     ffcfcb7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:51Z | Auto-update branch-info.txt
     345b207 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:18Z | Auto-update branch-info.txt
     15ed3c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:56:01Z | Auto-update branch-info.txt
     49b04a1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:50:51Z | Auto-update branch-info.txt
-    80afd9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:47:04Z | Auto-update branch-info.txt
