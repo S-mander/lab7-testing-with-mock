@@ -47,8 +47,10 @@ def test_given_verifying_an_invalid_length_key_then_ipe_raised():
         Encrypt().validate(params={"key": "key"})
 
 @mock.patch.object(AESCipher, "is_valid_key_size")
-def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_is_valid):
-    mock_is_valid.return_value = False
+def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(
+    mock_is_valid_key_size,
+):
+    mock_is_valid_key_size.return_value = False
     with pytest.raises(
         InvalidParamError,
         match="Invalid input, key must be of length 128, 192 or 256 bits",
