@@ -18,30 +18,17 @@ Branches in this repo (with details):
   SHA: 7f103b7cc800f82824696abeabb25fbae3d8866d
   Commits: 12
   Recent commits:
-<<<<<<< HEAD
     7f103b7 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T16:01:56Z | Trying to fix branch-info not recognizing lab7
     7755f6c | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:59:05Z | Adjust lab7 marker to match grader expectations
     86d210a | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:53Z | Fix lab7 marker format
     fb2ff9e | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:07Z | Fix branch-info lab7 marker
     0ba6a10 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:55:37Z | Normalize branch-info lab7 indentation
 - main
-  SHA: 697b7b95c7194a7ad298c7d9a417c1c68b10b8d8
-  Commits: 14
+  SHA: 8586d99fd47eb9f6fbbf2a9bcb645526d8af207b
+  Commits: 23
   Recent commits:
+    8586d99 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T17:21:02Z | Fixing merge conflict
+    f79464b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:02:50Z | Auto-update branch-info.txt
     697b7b9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:02:08Z | Auto-update branch-info.txt
+    7f103b7 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T16:01:56Z | Trying to fix branch-info not recognizing lab7
     0bee094 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:00:55Z | Auto-update branch-info.txt
-    ffcfcb7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:51Z | Auto-update branch-info.txt
-    345b207 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:18Z | Auto-update branch-info.txt
-    15ed3c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:56:01Z | Auto-update branch-info.txt
-=======
-    af6f34a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:46Z | Auto-update branch-info.txt
-    0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
-    f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
- - lab7
-  SHA: 938e9bd0bc1f2caa1429adb52e03dd4854fe9cea
-  Commits: 5
-  Recent commits:
-    938e9bd | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:16:08+00:00 | Testing with Mock
-    92f648e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:57+00:00 | Auto-update branch-info.txt
-    af6f34a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:46Z | Auto-update branch-info.txt
->>>>>>> lab7
