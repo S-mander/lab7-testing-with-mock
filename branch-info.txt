@@ -15,20 +15,20 @@ Branches in this repo (with details):
     0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
     f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
 - lab7
-  SHA: fb2ff9ec007707b86652b52d38a708e72c6d64af
-  Commits: 9
+  SHA: 7755f6c4367c272a50607ea51c62e009cfc7da87
+  Commits: 11
   Recent commits:
+    7755f6c | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:59:05Z | Adjust lab7 marker to match grader expectations
+    86d210a | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:53Z | Fix lab7 marker format
     fb2ff9e | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:07Z | Fix branch-info lab7 marker
     0ba6a10 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:55:37Z | Normalize branch-info lab7 indentation
     027c336 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:52:40Z | Fix branch-info lab7 entry formatting
-    aa3bd85 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:47:25Z | Add lab7 branch to branch-info.txt
-    938e9bd | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:16:08Z | Testing with Mock
 - main
-  SHA: 345b207a456747db890361db4c9c9dd40c77217c
-  Commits: 11
+  SHA: ffcfcb7aab0eae78e8b4a463cc63edc83cfd10fb
+  Commits: 12
   Recent commits:
+    ffcfcb7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:51Z | Auto-update branch-info.txt
     345b207 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:57:18Z | Auto-update branch-info.txt
     15ed3c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:56:01Z | Auto-update branch-info.txt
     49b04a1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:50:51Z | Auto-update branch-info.txt
     80afd9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:47:04Z | Auto-update branch-info.txt
-    1dd6c0e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T15:43:55Z | Auto-update branch-info.txt
