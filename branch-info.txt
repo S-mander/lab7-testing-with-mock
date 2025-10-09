@@ -21,7 +21,7 @@ Branches in this repo (with details):
     af6f34a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:46Z | Auto-update branch-info.txt
     0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
     f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
- - lab7
+ -lab7
   SHA: 938e9bd0bc1f2caa1429adb52e03dd4854fe9cea
   Commits: 5
   Recent commits:
