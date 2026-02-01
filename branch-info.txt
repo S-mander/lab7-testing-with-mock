@@ -1,12 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: afe8c482aeade84417fddf242036906dfe088e6a
-  Commits: 3
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: fcc8f10a7ceeaac30acaf79f98335179f111077a
+  Commits: 28
   Recent commits:
-    afe8c48 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T14:11:48Z | Bump python in /presidio-anonymizer
-    0577fe6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T14:11:00Z | Auto-update branch-info.txt
-    f811786 | Author: S-mander <184024871+S-mander@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T10:10:47-04:00 | Initial commit
+    fcc8f10 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T07:19:25Z | Bump python in /presidio-anonymizer
+    da0d800 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T07:43:37Z | Auto-update branch-info.txt
+    2dc6a39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:35:25Z | Auto-update branch-info.txt
+    3f2ffec | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T17:35:07Z | Fixing naming conventions for grader script
+    eb27ac3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:21:22Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: 31b3b9d9efd63145dca6c10056d58c176b8fd905
   Commits: 27
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     fb2ff9e | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:57:07Z | Fix branch-info lab7 marker
     0ba6a10 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T15:55:37Z | Normalize branch-info lab7 indentation
 - main
-  SHA: 2dc6a39cd6ae9857a0a43cdb3db4434b3f7690e6
-  Commits: 26
+  SHA: da0d80029ef3b55cc2d1129dbb77999537b78531
+  Commits: 27
   Recent commits:
+    da0d800 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T07:43:37Z | Auto-update branch-info.txt
     2dc6a39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:35:25Z | Auto-update branch-info.txt
     3f2ffec | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T17:35:07Z | Fixing naming conventions for grader script
     eb27ac3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T17:21:22Z | Auto-update branch-info.txt
     8586d99 | Author: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Committer: Ashley Fredrick <184024871+S-mander@users.noreply.github.com> | Date: 2025-10-09T17:21:02Z | Fixing merge conflict
-    f79464b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T16:02:50Z | Auto-update branch-info.txt
